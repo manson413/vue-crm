@@ -1,5 +1,6 @@
 <template>
-  <form class="card auth-card">
+  <div class="grey darken-1 empty-layout">
+    <form class="card auth-card">
       <div class="card-content">
         <span class="card-title">Домашняя бухгалтерия</span>
         <div class="input-field">
@@ -27,4 +28,5 @@
         </p>
       </div>
     </form>
+  </div>
 </template>
