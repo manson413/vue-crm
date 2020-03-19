@@ -14,6 +14,7 @@
 
 export default {
   name: 'Home2',
-  test: 'test'
+  test: 'test',
+  age: 222
 }
 </script>
