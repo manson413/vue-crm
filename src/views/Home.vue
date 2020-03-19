@@ -13,6 +13,8 @@
 // @ is an alias to /src
 
 export default {
-  name: 'Home'
+  name: 'Home',
+  name1: 'test1',
+  name2: 'test1'
 }
 </script>
